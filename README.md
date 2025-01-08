@@ -1,4 +1,4 @@
-[Welcome](https://media.tenor.com/hYkRcm80JFwAAAAi/foxy-foxplushy.gif)
+![Welcome](https://media.tenor.com/hYkRcm80JFwAAAAi/foxy-foxplushy.gif)
 
 # Welcome
   *Have you ever encountered a problem when you want to switch a track or turn it down in spotify,  
