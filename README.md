@@ -18,4 +18,6 @@
   **Left Arrow** - *Back track*  
   **UP Arrow** - *Volume +*  
   **Down Arrow** - *Volume -*  
-  
+
+### NOT VIRUS!
+ **The antivirus software may swear, as keyboard control is involved.(keyboard shortcuts that are activated in the system)**
