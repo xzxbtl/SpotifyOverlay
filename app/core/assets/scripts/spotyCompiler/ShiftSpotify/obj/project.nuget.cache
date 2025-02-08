@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fXdm2OnV7xs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xzxbt\\Downloads\\spotyCompiler\\ShiftSpotify\\ShiftSpotify.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xzxbt\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\xzxbt\\.nuget\\packages\\globalhotkeys.windows\\0.1.0\\globalhotkeys.windows.0.1.0.nupkg.sha512",
+    "C:\\Users\\xzxbt\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
